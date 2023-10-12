@@ -1,3 +1,10 @@
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 # 💫 About Me:
 🔭 I’m currently working on Steam-Workshop-API<br>🌱 I’m currently learning C++<br>💬 Ask me about C#<br>👨‍💻 All of my projects are available at https://github.com/SALEH-SMG/<br>📫 How to reach me salehalghazwani@outlook.sa
 
